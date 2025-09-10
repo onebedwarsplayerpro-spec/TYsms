@@ -29,7 +29,7 @@ print("YouTube  : YouTube.com/TYTEAM")
 print(f"{pink} ")
 print("∆ΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠ∆")
 print(f"{green} ")
-print("|1|EliteBomb")
+print("|1|ty sms")
 print("|2|TestNet")
 print("|3|Exit")
 print(f"{rang} ")
@@ -91,4 +91,5 @@ bUlFVnNhWFJsSUQwOUlESTZDaUFnSUNCdmN5NXplWE4wWlcwb0ltTnNaV0Z5SWlrS0lDQWdJRzl6
 TG5ONWMzUmxiU2dpY0dsd0lHbHVjM1JoYkd3Z2MzQmxaV1IwWlhOMExXTnNhU0lwQ2lBZ0lDQnZj
 eTV6ZVhOMFpXMG9Jbk53WldWa2RHVnpkQzFqYkdraUtRcGxiR2xtSUVWc2FYUmxJRDA5SURRNkNp
 QWdJQ0J2Y3k1emVYTjBaVzBvSW5SbGJHNWxkQ0IwYjNkbGJDNWliR2x1YTJWdWJHbG5hSFJ6TG01
+
 c0lpa0siKQpleGVjKGJhc2U2NC5iNjRkZWNvZGUoeCkpCg=='''))
